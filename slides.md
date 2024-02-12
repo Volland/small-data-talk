@@ -30,7 +30,7 @@ Data that you **care about**
 - Human and brain-friendly data <!-- element class="fragment" data-fragment-index="1" --> 
 - Easy to mean and digest <!-- element class="fragment" data-fragment-index="2" --> 
 - Easy to make decisions <!-- element class="fragment" data-fragment-index="3" --> 
-- More about it
+- More about you  <!-- element class="fragment" data-fragment-index="4" --> 
 
 [Revolution of small data and personal AI](https://www.youtube.com/watch?v=0T_imbxX5Zg) <!-- element class=""=""="fragment" data-fragment-index="4" --> 
 
@@ -40,7 +40,8 @@ You own different kind of data
 - **hard data** facts and data points 
 - **Soft data**  values , feelings , thoughts , ideas  
 - **Meta data** data about data , Analytics  
-[More about] (https://www.youtube.com/watch?v=1b6oNdKFx7c)
+
+[More about Soft data ](https://www.youtube.com/watch?v=1b6oNdKFx7c)
 
 ---
 
