@@ -21,6 +21,7 @@ Data where you **lost yourself**
 - Common for Big Enterprise
 - Big volume of data point 
 - Require data magicians 
+- More about platforms around you
 ---
 
 ## Small Data 
@@ -29,7 +30,9 @@ Data that you **care about**
 - Human and brain-friendly data <!-- element class="fragment" data-fragment-index="1" --> 
 - Easy to mean and digest <!-- element class="fragment" data-fragment-index="2" --> 
 - Easy to make decisions <!-- element class="fragment" data-fragment-index="3" --> 
-More about it [Revolution of small data and personal AI](https://www.youtube.com/watch?v=0T_imbxX5Zg) <!-- element class="fragment" data-fragment-index="4" --> 
+- More about it
+
+[Revolution of small data and personal AI](https://www.youtube.com/watch?v=0T_imbxX5Zg) <!-- element class=""=""="fragment" data-fragment-index="4" --> 
 
 ---
 ## Hard Soft and Meta Data 
